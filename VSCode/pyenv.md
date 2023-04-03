@@ -1,0 +1,3 @@
+- pyenv global (global python version)
+- pyenv global 3.9.6 (change version)
+- pyenv versions (for all versions)
